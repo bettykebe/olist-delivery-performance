@@ -1,6 +1,6 @@
 # Olist Delivery Performance by State
 
-![Power BI report showing delivery performance by Brazilian state](dashboard.png)
+![Power BI report showing delivery performance by Brazilian state](Dashboard.png)
 
 ## Business question
 
